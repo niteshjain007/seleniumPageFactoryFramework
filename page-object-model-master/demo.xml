@@ -1,0 +1,7 @@
+<suite name="smokeTesting">
+	<test name="tokenSale">
+		<classes>
+			 <class name="com.talentica.test.ContactPageTest" />
+		</classes>
+	</test>
+</suite>
